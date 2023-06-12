@@ -1,0 +1,27 @@
+Merhabalar,
+Öncelikle kolay okunabilirlik açısından txt dosyasını tercih ettim.
+Kısaca serüvenimden bahsedecek olursam;
+İlk başta Figma'ya girip tasarımı inceledim. Kafamda basit bir yol kurdum. 
+Daha sonra gönderdiğiniz task'a dönüp projeyi anlamaya çalıştım.
+React ve devexpress kullanmaya karar verdim.
+React projesini oluşturduktan sonra devexpress'i inceleyip araştırmaya 
+başladım. Gerçekten her şeyin kısayolunu oluşturmuşlar. İnceleyip 
+alıştırma yapması gerçekten çok zevkliydi. Ama her şey hazır olduğu için müdahale
+şansı bir o kadar zor ve karmaşıktı. Yaptığım şeyleri (sabırsızlığım kurbanı
+oldum diyebilirim :D) bozup bozup tekrar devexpresse göre düzenledim.
+Buradan sonrası tasarımı koda dökme aşamasıydı. Mümkün olduğunca basit tutmaya
+çalıştım. Verdiğiniz linkler üzerinden gittim. Bir veri giriş tablosu oluşturdum.
+Her şey tamamlandıktan sonra responsive tasarımı yapıp projeyi tamamladım.
+
+Gerçekten çok eğlendiğim bir uygulamaydı. Yeni şeyler öğrenmeme fırsat verdi.
+Bu arada sosyal medya linklerinizi eklerken ne kadar eğlenceli ve sıcak 
+bir ekip olduğunuzu farkettim. Umarım bu hiç bozulmaz ve bende bu ekibe katılma fırsatı 
+yakalayabilrim :)
+
+Geç saatte yazdığım ve heyecanla kelimelerimi yazıya döktüğüm bu dökümanda umarım 
+bir hata ya da kusur işlememişimdir.
+
+İyi çalışmalar ve mutlu günler dilerim,
+Sevgi ve saygılarımla...
+
+-Berkay Güngör
